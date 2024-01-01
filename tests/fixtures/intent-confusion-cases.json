@@ -1,0 +1,27 @@
+[
+  {
+    "query": "weather in seattle tomorrow",
+    "expectedTopIntent": "weather",
+    "expectedResolvedIntent": "weather"
+  },
+  {
+    "query": "SYMA stock quote",
+    "expectedTopIntent": "stock",
+    "expectedResolvedIntent": "stock"
+  },
+  {
+    "query": "what is (12 + 8) / 2",
+    "expectedTopIntent": "calculator",
+    "expectedResolvedIntent": "calculator"
+  },
+  {
+    "query": "define volatility",
+    "expectedTopIntent": "dictionary",
+    "expectedResolvedIntent": "dictionary"
+  },
+  {
+    "query": "what does hedge mean",
+    "expectedTopIntent": "dictionary",
+    "expectedResolvedIntent": "dictionary"
+  }
+]
