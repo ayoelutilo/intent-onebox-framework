@@ -276,3 +276,5 @@ export const DEFAULT_FALLBACK_ORDER: ResolverIntent[] = [
   "stock",
   "weather"
 ];
+
+// Refinement.
