@@ -123,3 +123,5 @@ export interface FrameworkOptions {
 export interface IntentDetector {
   detect(query: string, options?: DetectionOptions): IntentDetectionResult;
 }
+
+// Refinement.
