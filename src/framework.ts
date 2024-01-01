@@ -169,3 +169,5 @@ export class IntentOneboxFramework {
 export function createFramework(options: FrameworkOptions = {}): IntentOneboxFramework {
   return new IntentOneboxFramework(new HeuristicIntentDetector(), new ResolverRegistry(), options);
 }
+
+// Refinement.
