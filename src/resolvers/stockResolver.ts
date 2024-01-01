@@ -83,3 +83,5 @@ export class InMemoryStockResolver implements IntentResolver<"stock", StockOnebo
     };
   }
 }
+
+// Refinement.
