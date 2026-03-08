@@ -32,3 +32,5 @@ The architecture has three layers:
 - Heuristic detector is transparent but may require tuning for domain-specific language.
 
 - Changelog: minor updates.
+
+- Changelog: minor updates.
