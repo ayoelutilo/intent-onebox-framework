@@ -196,5 +196,3 @@ export class SafeCalculatorResolver
     };
   }
 }
-
-// Refinement.

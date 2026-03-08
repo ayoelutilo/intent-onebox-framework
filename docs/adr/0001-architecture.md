@@ -30,7 +30,3 @@ The architecture has three layers:
 - Execution attempts provide auditable behavior for confusion and fallback cases.
 - Deterministic fixture-backed resolvers keep regression tests stable.
 - Heuristic detector is transparent but may require tuning for domain-specific language.
-
-- Changelog: minor updates.
-
-- Changelog: minor updates.

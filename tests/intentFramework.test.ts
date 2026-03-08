@@ -135,5 +135,3 @@ test("keyword detector avoids substring false positives", () => {
 
   assert.equal(detection.topIntent, "weather");
 });
-
-// Refinement.

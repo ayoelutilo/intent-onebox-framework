@@ -29,7 +29,3 @@ export function createDefaultFramework(options: FrameworkOptions = {}): IntentOn
 
   return new IntentOneboxFramework(detector, registry, options);
 }
-
-// Refinement.
-
-// Refinement.

@@ -105,5 +105,3 @@ export class InMemoryWeatherResolver implements IntentResolver<"weather", Weathe
     };
   }
 }
-
-// Refinement.

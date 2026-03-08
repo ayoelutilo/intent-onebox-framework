@@ -47,7 +47,3 @@ if (outcome.result?.intent === "stock") {
 
 - The built-in resolvers are deterministic fixture-backed implementations for framework testing and extension.
 - Confidence merges detector confidence with resolver confidence so chains can be audited consistently.
-
-- Changelog: minor updates.
-
-- Changelog: minor updates.
