@@ -49,3 +49,5 @@ if (outcome.result?.intent === "stock") {
 - Confidence merges detector confidence with resolver confidence so chains can be audited consistently.
 
 - Changelog: minor updates.
+
+- Changelog: minor updates.
